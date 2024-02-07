@@ -4,11 +4,11 @@
     "Palier": "ING2",
     "Spécialité": "INFO",
     "Section": "A",
-    "Matricule": 222231486303,
+    "matricule": 222231486303,
     "Nom": "ABBAD",
     "Prénom": "SARAH",
     "Etat": "ADM",
-    "Groupe TD": 2,
+    "Groupe": 2,
     "Groupe TP": 2
   },
   {
@@ -16,11 +16,11 @@
     "Palier": "ING2",
     "Spécialité": "INFO",
     "Section": "A",
-    "Matricule": 222231609707,
+    "matricule": 222231609707,
     "Nom": "ABDELLAOUI",
     "Prénom": "YOUCEF",
     "Etat": "ADM",
-    "Groupe TD": 1,
+    "Groupe": 1,
     "Groupe TP": 1
   },
   {
@@ -28,11 +28,11 @@
     "Palier": "ING2",
     "Spécialité": "INFO",
     "Section": "A",
-    "Matricule": 222231520318,
+    "matricule": 222231520318,
     "Nom": "AGRANE",
     "Prénom": "RYM",
     "Etat": "ADM",
-    "Groupe TD": 2,
+    "Groupe": 2,
     "Groupe TP": 2
   },
   {
@@ -40,11 +40,11 @@
     "Palier": "ING2",
     "Spécialité": "INFO",
     "Section": "A",
-    "Matricule": 222233146817,
+    "matricule": 222233146817,
     "Nom": "AIBA",
     "Prénom": "RABAH AMINE",
     "Etat": "ADM",
-    "Groupe TD": 1,
+    "Groupe": 1,
     "Groupe TP": 1
   },
   {
@@ -52,11 +52,11 @@
     "Palier": "ING2",
     "Spécialité": "INFO",
     "Section": "A",
-    "Matricule": 222231519509,
+    "matricule": 222231519509,
     "Nom": "AIBECHE",
     "Prénom": "YASMINE",
     "Etat": "ADM",
-    "Groupe TD": 1,
+    "Groupe": 1,
     "Groupe TP": 1
   },
   {
@@ -64,11 +64,11 @@
     "Palier": "ING2",
     "Spécialité": "INFO",
     "Section": "A",
-    "Matricule": 222231521019,
+    "matricule": 222231521019,
     "Nom": "AKCHICHE",
     "Prénom": "MERIEM LYNA",
     "Etat": "ADM",
-    "Groupe TD": 4,
+    "Groupe": 4,
     "Groupe TP": 4
   },
   {
@@ -76,11 +76,11 @@
     "Palier": "ING2",
     "Spécialité": "INFO",
     "Section": "A",
-    "Matricule": 212231697607,
+    "matricule": 212231697607,
     "Nom": "AKLI",
     "Prénom": "SARA",
     "Etat": "ADM",
-    "Groupe TD": 4,
+    "Groupe": 4,
     "Groupe TP": 4
   },
   {
@@ -88,11 +88,11 @@
     "Palier": "ING2",
     "Spécialité": "INFO",
     "Section": "A",
-    "Matricule": 222231609520,
+    "matricule": 222231609520,
     "Nom": "AKNOUCHE",
     "Prénom": "SOUHA CHAIMA",
     "Etat": "ADM",
-    "Groupe TD": 4,
+    "Groupe": 4,
     "Groupe TP": 4
   },
   {
@@ -100,11 +100,11 @@
     "Palier": "ING2",
     "Spécialité": "INFO",
     "Section": "A",
-    "Matricule": 222231581410,
+    "matricule": 222231581410,
     "Nom": "AKOUIRADJEMOU",
     "Prénom": "OUAIL ABD ERRAOUF",
     "Etat": "ADM",
-    "Groupe TD": 3,
+    "Groupe": 3,
     "Groupe TP": 3
   },
   {
@@ -112,11 +112,11 @@
     "Palier": "ING2",
     "Spécialité": "INFO",
     "Section": "A",
-    "Matricule": 222231522611,
+    "matricule": 222231522611,
     "Nom": "ALLOUN",
     "Prénom": "ANIS",
     "Etat": "ADM",
-    "Groupe TD": 2,
+    "Groupe": 2,
     "Groupe TP": 2
   },
   {
@@ -124,11 +124,11 @@
     "Palier": "ING2",
     "Spécialité": "INFO",
     "Section": "A",
-    "Matricule": 222231402105,
+    "matricule": 222231402105,
     "Nom": "AMGHARE",
     "Prénom": "ZAKARIA",
     "Etat": "ADM",
-    "Groupe TD": 1,
+    "Groupe": 1,
     "Groupe TP": 1
   },
   {
@@ -136,11 +136,11 @@
     "Palier": "ING2",
     "Spécialité": "INFO",
     "Section": "A",
-    "Matricule": 222231663410,
+    "matricule": 222231663410,
     "Nom": "AMIROUCHE",
     "Prénom": "CHAIMA NISREEN",
     "Etat": "ADM",
-    "Groupe TD": 1,
+    "Groupe": 1,
     "Groupe TP": 1
   },
   {
@@ -148,11 +148,11 @@
     "Palier": "ING2",
     "Spécialité": "INFO",
     "Section": "A",
-    "Matricule": 222231699516,
+    "matricule": 222231699516,
     "Nom": "AMMOUCHE",
     "Prénom": "ABDERRAOUF",
     "Etat": "ADM",
-    "Groupe TD": 1,
+    "Groupe": 1,
     "Groupe TP": 1
   },
   {
@@ -160,11 +160,11 @@
     "Palier": "ING2",
     "Spécialité": "INFO",
     "Section": "A",
-    "Matricule": 222231454720,
+    "matricule": 222231454720,
     "Nom": "ASSAS",
     "Prénom": "YACOUB",
     "Etat": "ADM",
-    "Groupe TD": 2,
+    "Groupe": 2,
     "Groupe TP": 2
   },
   {
@@ -172,11 +172,11 @@
     "Palier": "ING2",
     "Spécialité": "INFO",
     "Section": "A",
-    "Matricule": 222231402911,
+    "matricule": 222231402911,
     "Nom": "ATHMANE",
     "Prénom": "LINA",
     "Etat": "ADM",
-    "Groupe TD": 1,
+    "Groupe": 1,
     "Groupe TP": 1
   },
   {
@@ -184,11 +184,11 @@
     "Palier": "ING2",
     "Spécialité": "INFO",
     "Section": "A",
-    "Matricule": 212231449520,
+    "matricule": 212231449520,
     "Nom": "BAROUD",
     "Prénom": "LINA",
     "Etat": "ADM",
-    "Groupe TD": 1,
+    "Groupe": 1,
     "Groupe TP": 1
   },
   {
@@ -196,11 +196,11 @@
     "Palier": "ING2",
     "Spécialité": "INFO",
     "Section": "A",
-    "Matricule": 222231326620,
+    "matricule": 222231326620,
     "Nom": "BECHAR",
     "Prénom": "WALID",
     "Etat": "ADM",
-    "Groupe TD": 2,
+    "Groupe": 2,
     "Groupe TP": 2
   },
   {
@@ -208,11 +208,11 @@
     "Palier": "ING2",
     "Spécialité": "INFO",
     "Section": "A",
-    "Matricule": 222231362920,
+    "matricule": 222231362920,
     "Nom": "BEDOUHENE",
     "Prénom": "MILENE HADIL",
     "Etat": "ADM",
-    "Groupe TD": 1,
+    "Groupe": 1,
     "Groupe TP": 1
   },
   {
@@ -220,11 +220,11 @@
     "Palier": "ING2",
     "Spécialité": "INFO",
     "Section": "A",
-    "Matricule": 222231633501,
+    "matricule": 222231633501,
     "Nom": "BELHADJ",
     "Prénom": "AYA",
     "Etat": "ADM",
-    "Groupe TD": 4,
+    "Groupe": 4,
     "Groupe TP": 4
   },
   {
@@ -232,11 +232,11 @@
     "Palier": "ING2",
     "Spécialité": "INFO",
     "Section": "A",
-    "Matricule": 222231640617,
+    "matricule": 222231640617,
     "Nom": "BELLIL",
     "Prénom": "NAWEL",
     "Etat": "ADM",
-    "Groupe TD": 1,
+    "Groupe": 1,
     "Groupe TP": 1
   },
   {
@@ -244,11 +244,11 @@
     "Palier": "ING2",
     "Spécialité": "INFO",
     "Section": "A",
-    "Matricule": 222231607411,
+    "matricule": 222231607411,
     "Nom": "BELMIHOUB",
     "Prénom": "HOUAS MEHDI",
     "Etat": "ADM",
-    "Groupe TD": 3,
+    "Groupe": 3,
     "Groupe TP": 3
   },
   {
@@ -256,11 +256,11 @@
     "Palier": "ING2",
     "Spécialité": "INFO",
     "Section": "A",
-    "Matricule": 222231362419,
+    "matricule": 222231362419,
     "Nom": "BENABDELGHANI",
     "Prénom": "MOHAMED",
     "Etat": "ADM",
-    "Groupe TD": 3,
+    "Groupe": 3,
     "Groupe TP": 3
   },
   {
@@ -268,11 +268,11 @@
     "Palier": "ING2",
     "Spécialité": "INFO",
     "Section": "A",
-    "Matricule": 222231520920,
+    "matricule": 222231520920,
     "Nom": "BENALIA",
     "Prénom": "MOHAMMED YAHIA SAID",
     "Etat": "ADM",
-    "Groupe TD": 1,
+    "Groupe": 1,
     "Groupe TP": 1
   },
   {
@@ -280,11 +280,11 @@
     "Palier": "ING2",
     "Spécialité": "INFO",
     "Section": "A",
-    "Matricule": 222231501817,
+    "matricule": 222231501817,
     "Nom": "BENAMIROUCHE",
     "Prénom": "ABDERAOUF",
     "Etat": "ADM",
-    "Groupe TD": 2,
+    "Groupe": 2,
     "Groupe TP": 2
   },
   {
@@ -292,11 +292,11 @@
     "Palier": "ING2",
     "Spécialité": "INFO",
     "Section": "A",
-    "Matricule": 222231522211,
+    "matricule": 222231522211,
     "Nom": "BENAOUICHA",
     "Prénom": "MAROUA",
     "Etat": "ADM",
-    "Groupe TD": 4,
+    "Groupe": 4,
     "Groupe TP": 4
   },
   {
@@ -304,11 +304,11 @@
     "Palier": "ING2",
     "Spécialité": "INFO",
     "Section": "A",
-    "Matricule": 222231454406,
+    "matricule": 222231454406,
     "Nom": "BENDJAIMA",
     "Prénom": "YASSAMINE",
     "Etat": "ADM",
-    "Groupe TD": 4,
+    "Groupe": 4,
     "Groupe TP": 4
   },
   {
@@ -316,11 +316,11 @@
     "Palier": "ING2",
     "Spécialité": "INFO",
     "Section": "A",
-    "Matricule": 212231706702,
+    "matricule": 212231706702,
     "Nom": "BENMESBAH",
     "Prénom": "AMIRA",
     "Etat": "ADM",
-    "Groupe TD": 3,
+    "Groupe": 3,
     "Groupe TP": 3
   },
   {
@@ -328,11 +328,11 @@
     "Palier": "ING2",
     "Spécialité": "INFO",
     "Section": "A",
-    "Matricule": 222231498614,
+    "matricule": 222231498614,
     "Nom": "BENOUMECHIARA",
     "Prénom": "ABIR MARIA NAILA",
     "Etat": "ADM",
-    "Groupe TD": 3,
+    "Groupe": 3,
     "Groupe TP": 3
   },
   {
@@ -340,11 +340,11 @@
     "Palier": "ING2",
     "Spécialité": "INFO",
     "Section": "A",
-    "Matricule": 222231520105,
+    "matricule": 222231520105,
     "Nom": "BENSALAH",
     "Prénom": "IBTIHAL",
     "Etat": "ADM",
-    "Groupe TD": 2,
+    "Groupe": 2,
     "Groupe TP": 2
   },
   {
@@ -352,11 +352,11 @@
     "Palier": "ING2",
     "Spécialité": "INFO",
     "Section": "A",
-    "Matricule": 222231556314,
+    "matricule": 222231556314,
     "Nom": "BENSMAIN",
     "Prénom": "ABDERRAHIM",
     "Etat": "ADM",
-    "Groupe TD": 4,
+    "Groupe": 4,
     "Groupe TP": 4
   },
   {
@@ -364,11 +364,11 @@
     "Palier": "ING2",
     "Spécialité": "INFO",
     "Section": "A",
-    "Matricule": 222231485217,
+    "matricule": 222231485217,
     "Nom": "BENTOUMI",
     "Prénom": "LYNA RACHA",
     "Etat": "ADM",
-    "Groupe TD": 1,
+    "Groupe": 1,
     "Groupe TP": 1
   },
   {
@@ -376,11 +376,11 @@
     "Palier": "ING2",
     "Spécialité": "INFO",
     "Section": "A",
-    "Matricule": 222231649317,
+    "matricule": 222231649317,
     "Nom": "BENYETTOU",
     "Prénom": "HADIL",
     "Etat": "ADM",
-    "Groupe TD": 4,
+    "Groupe": 4,
     "Groupe TP": 4
   },
   {
@@ -388,11 +388,11 @@
     "Palier": "ING2",
     "Spécialité": "INFO",
     "Section": "A",
-    "Matricule": 222231658412,
+    "matricule": 222231658412,
     "Nom": "BERCHICHE",
     "Prénom": "FATENE",
     "Etat": "ADM",
-    "Groupe TD": 2,
+    "Groupe": 2,
     "Groupe TP": 2
   },
   {
@@ -400,11 +400,11 @@
     "Palier": "ING2",
     "Spécialité": "INFO",
     "Section": "A",
-    "Matricule": 212231456905,
+    "matricule": 212231456905,
     "Nom": "BOUALIT",
     "Prénom": "MOHAMED",
     "Etat": "ADM",
-    "Groupe TD": 3,
+    "Groupe": 3,
     "Groupe TP": 3
   },
   {
@@ -412,11 +412,11 @@
     "Palier": "ING2",
     "Spécialité": "INFO",
     "Section": "A",
-    "Matricule": 222231361011,
+    "matricule": 222231361011,
     "Nom": "BOUCHEKIR",
     "Prénom": "HANANE",
     "Etat": "ADM",
-    "Groupe TD": 2,
+    "Groupe": 2,
     "Groupe TP": 2
   },
   {
@@ -424,11 +424,11 @@
     "Palier": "ING2",
     "Spécialité": "INFO",
     "Section": "A",
-    "Matricule": 222231353604,
+    "matricule": 222231353604,
     "Nom": "BOUCHENE",
     "Prénom": "ZAKARIA",
     "Etat": "ADM",
-    "Groupe TD": 3,
+    "Groupe": 3,
     "Groupe TP": 3
   },
   {
@@ -436,11 +436,11 @@
     "Palier": "ING2",
     "Spécialité": "INFO",
     "Section": "A",
-    "Matricule": 212231449303,
+    "matricule": 212231449303,
     "Nom": "BOUIKNI",
     "Prénom": "LYDIA HANA",
     "Etat": "ADM",
-    "Groupe TD": 1,
+    "Groupe": 1,
     "Groupe TP": 1
   },
   {
@@ -448,11 +448,11 @@
     "Palier": "ING2",
     "Spécialité": "INFO",
     "Section": "A",
-    "Matricule": 222231501807,
+    "matricule": 222231501807,
     "Nom": "BOUTKEDJIRT",
     "Prénom": "SANA",
     "Etat": "ADM",
-    "Groupe TD": 2,
+    "Groupe": 2,
     "Groupe TP": 2
   },
   {
@@ -460,11 +460,11 @@
     "Palier": "ING2",
     "Spécialité": "INFO",
     "Section": "A",
-    "Matricule": 222231609614,
+    "matricule": 222231609614,
     "Nom": "BOUZNAD",
     "Prénom": "MOSTEFA RIYAD",
     "Etat": "ADM",
-    "Groupe TD": 2,
+    "Groupe": 2,
     "Groupe TP": 2
   },
   {
@@ -472,11 +472,11 @@
     "Palier": "ING2",
     "Spécialité": "INFO",
     "Section": "A",
-    "Matricule": 222231485010,
+    "matricule": 222231485010,
     "Nom": "CHABANE CHAOUCHE",
     "Prénom": "RABAH",
     "Etat": "ADM",
-    "Groupe TD": 3,
+    "Groupe": 3,
     "Groupe TP": 3
   },
   {
@@ -484,11 +484,11 @@
     "Palier": "ING2",
     "Spécialité": "INFO",
     "Section": "A",
-    "Matricule": 222231520312,
+    "matricule": 222231520312,
     "Nom": "CHABATI",
     "Prénom": "RAYAN",
     "Etat": "ADM",
-    "Groupe TD": 4,
+    "Groupe": 4,
     "Groupe TP": 4
   },
   {
@@ -496,11 +496,11 @@
     "Palier": "ING2",
     "Spécialité": "INFO",
     "Section": "A",
-    "Matricule": 222231566513,
+    "matricule": 222231566513,
     "Nom": "CHAHOUR",
     "Prénom": "HANIA",
     "Etat": "ADM",
-    "Groupe TD": 1,
+    "Groupe": 1,
     "Groupe TP": 1
   },
   {
@@ -508,11 +508,11 @@
     "Palier": "ING2",
     "Spécialité": "INFO",
     "Section": "A",
-    "Matricule": 222231320604,
+    "matricule": 222231320604,
     "Nom": "CHEBIRA",
     "Prénom": "DHIKRA",
     "Etat": "ADM",
-    "Groupe TD": 4,
+    "Groupe": 4,
     "Groupe TP": 4
   },
   {
@@ -520,11 +520,11 @@
     "Palier": "ING2",
     "Spécialité": "INFO",
     "Section": "A",
-    "Matricule": 222231628603,
+    "matricule": 222231628603,
     "Nom": "CHERIGUENE",
     "Prénom": "MYRIAM",
     "Etat": "ADM",
-    "Groupe TD": 4,
+    "Groupe": 4,
     "Groupe TP": 4
   },
   {
@@ -532,11 +532,11 @@
     "Palier": "ING2",
     "Spécialité": "INFO",
     "Section": "A",
-    "Matricule": 222231621508,
+    "matricule": 222231621508,
     "Nom": "CHOUCHAN",
     "Prénom": "CHAIMA",
     "Etat": "ADM",
-    "Groupe TD": 3,
+    "Groupe": 3,
     "Groupe TP": 3
   },
   {
@@ -544,11 +544,11 @@
     "Palier": "ING2",
     "Spécialité": "INFO",
     "Section": "A",
-    "Matricule": 212231702219,
+    "matricule": 212231702219,
     "Nom": "DADDI HAMMOU",
     "Prénom": "MOHAMMED EL AMINE",
     "Etat": "ADM",
-    "Groupe TD": 3,
+    "Groupe": 3,
     "Groupe TP": 3
   },
   {
@@ -556,11 +556,11 @@
     "Palier": "ING2",
     "Spécialité": "INFO",
     "Section": "A",
-    "Matricule": 222231485111,
+    "matricule": 222231485111,
     "Nom": "DEGAICHIA",
     "Prénom": "SADDEK RASSIM",
     "Etat": "ADM",
-    "Groupe TD": 1,
+    "Groupe": 1,
     "Groupe TP": 1
   },
   {
@@ -568,11 +568,11 @@
     "Palier": "ING2",
     "Spécialité": "INFO",
     "Section": "A",
-    "Matricule": 222231485017,
+    "matricule": 222231485017,
     "Nom": "DENNI",
     "Prénom": "RYAD",
     "Etat": "ADM",
-    "Groupe TD": 2,
+    "Groupe": 2,
     "Groupe TP": 2
   },
   {
@@ -580,11 +580,11 @@
     "Palier": "ING2",
     "Spécialité": "INFO",
     "Section": "A",
-    "Matricule": 222231639519,
+    "matricule": 222231639519,
     "Nom": "DRIDI",
     "Prénom": "MOHAMED SALAH",
     "Etat": "ADM",
-    "Groupe TD": 2,
+    "Groupe": 2,
     "Groupe TP": 2
   },
   {
@@ -592,11 +592,11 @@
     "Palier": "ING2",
     "Spécialité": "INFO",
     "Section": "A",
-    "Matricule": 222231521203,
+    "matricule": 222231521203,
     "Nom": "DROUL",
     "Prénom": "NESRINE ILHEM",
     "Etat": "ADM",
-    "Groupe TD": 3,
+    "Groupe": 3,
     "Groupe TP": 3
   },
   {
@@ -604,11 +604,11 @@
     "Palier": "ING2",
     "Spécialité": "INFO",
     "Section": "A",
-    "Matricule": 222231518520,
+    "matricule": 222231518520,
     "Nom": "FEDAOUI",
     "Prénom": "MERIEM ABIDA",
     "Etat": "ADM",
-    "Groupe TD": 1,
+    "Groupe": 1,
     "Groupe TP": 1
   },
   {
@@ -616,11 +616,11 @@
     "Palier": "ING2",
     "Spécialité": "INFO",
     "Section": "A",
-    "Matricule": 222231501708,
+    "matricule": 222231501708,
     "Nom": "FOUL",
     "Prénom": "RAMI ABDELDJALIL",
     "Etat": "ADM",
-    "Groupe TD": 2,
+    "Groupe": 2,
     "Groupe TP": 2
   },
   {
@@ -628,11 +628,11 @@
     "Palier": "ING2",
     "Spécialité": "INFO",
     "Section": "A",
-    "Matricule": 222231619819,
+    "matricule": 222231619819,
     "Nom": "GALI",
     "Prénom": "LINA",
     "Etat": "ADM",
-    "Groupe TD": 4,
+    "Groupe": 4,
     "Groupe TP": 4
   },
   {
@@ -640,11 +640,11 @@
     "Palier": "ING2",
     "Spécialité": "INFO",
     "Section": "A",
-    "Matricule": 222231589020,
+    "matricule": 222231589020,
     "Nom": "GHAOUI",
     "Prénom": "WAIL",
     "Etat": "ADM",
-    "Groupe TD": 1,
+    "Groupe": 1,
     "Groupe TP": 1
   },
   {
@@ -652,11 +652,11 @@
     "Palier": "ING2",
     "Spécialité": "INFO",
     "Section": "A",
-    "Matricule": 212231706610,
+    "matricule": 212231706610,
     "Nom": "GHAZI",
     "Prénom": "OUSSAMA SOHEIB",
     "Etat": "ADM",
-    "Groupe TD": 4,
+    "Groupe": 4,
     "Groupe TP": 4
   },
   {
@@ -664,11 +664,11 @@
     "Palier": "ING2",
     "Spécialité": "INFO",
     "Section": "A",
-    "Matricule": 212231458708,
+    "matricule": 212231458708,
     "Nom": "GHRIBI",
     "Prénom": "AHLEM",
     "Etat": "ADM",
-    "Groupe TD": 4,
+    "Groupe": 4,
     "Groupe TP": 4
   },
   {
@@ -676,11 +676,11 @@
     "Palier": "ING2",
     "Spécialité": "INFO",
     "Section": "A",
-    "Matricule": 222232152314,
+    "matricule": 222232152314,
     "Nom": "GOUMRACA",
     "Prénom": "CERINE",
     "Etat": "ADM",
-    "Groupe TD": 3,
+    "Groupe": 3,
     "Groupe TP": 3
   },
   {
@@ -688,11 +688,11 @@
     "Palier": "ING2",
     "Spécialité": "INFO",
     "Section": "A",
-    "Matricule": 222231495918,
+    "matricule": 222231495918,
     "Nom": "GUEBLI",
     "Prénom": "IKRAM",
     "Etat": "ADM",
-    "Groupe TD": 1,
+    "Groupe": 1,
     "Groupe TP": 1
   },
   {
@@ -700,11 +700,11 @@
     "Palier": "ING2",
     "Spécialité": "INFO",
     "Section": "A",
-    "Matricule": 222231318017,
+    "matricule": 222231318017,
     "Nom": "GUETTAR",
     "Prénom": "ASMA",
     "Etat": "ADM",
-    "Groupe TD": 4,
+    "Groupe": 4,
     "Groupe TP": 4
   },
   {
@@ -712,11 +712,11 @@
     "Palier": "ING2",
     "Spécialité": "INFO",
     "Section": "A",
-    "Matricule": 222231632905,
+    "matricule": 222231632905,
     "Nom": "HABCHI",
     "Prénom": "LYNA",
     "Etat": "ADM",
-    "Groupe TD": 2,
+    "Groupe": 2,
     "Groupe TP": 2
   },
   {
@@ -724,11 +724,11 @@
     "Palier": "ING2",
     "Spécialité": "INFO",
     "Section": "A",
-    "Matricule": 222231395317,
+    "matricule": 222231395317,
     "Nom": "HADDAD",
     "Prénom": "CHAHINEZ",
     "Etat": "ADM",
-    "Groupe TD": 2,
+    "Groupe": 2,
     "Groupe TP": 2
   },
   {
@@ -736,11 +736,11 @@
     "Palier": "ING2",
     "Spécialité": "INFO",
     "Section": "A",
-    "Matricule": 222231482117,
+    "matricule": 222231482117,
     "Nom": "HADJ ARAB",
     "Prénom": "ADEL",
     "Etat": "ADM",
-    "Groupe TD": 4,
+    "Groupe": 4,
     "Groupe TP": 4
   },
   {
@@ -748,11 +748,11 @@
     "Palier": "ING2",
     "Spécialité": "INFO",
     "Section": "A",
-    "Matricule": 222231520702,
+    "matricule": 222231520702,
     "Nom": "HAMDOUCHE",
     "Prénom": "ABDALLAH SAMY",
     "Etat": "ADM",
-    "Groupe TD": 2,
+    "Groupe": 2,
     "Groupe TP": 2
   },
   {
@@ -760,11 +760,11 @@
     "Palier": "ING2",
     "Spécialité": "INFO",
     "Section": "A",
-    "Matricule": 222231573505,
+    "matricule": 222231573505,
     "Nom": "HAMLA",
     "Prénom": "CERINE",
     "Etat": "ADM",
-    "Groupe TD": 3,
+    "Groupe": 3,
     "Groupe TP": 3
   },
   {
@@ -772,11 +772,11 @@
     "Palier": "ING2",
     "Spécialité": "INFO",
     "Section": "A",
-    "Matricule": 222231627801,
+    "matricule": 222231627801,
     "Nom": "HAMMAR",
     "Prénom": "MELISSA THIZIRI",
     "Etat": "ADM",
-    "Groupe TD": 1,
+    "Groupe": 1,
     "Groupe TP": 1
   },
   {
@@ -784,11 +784,11 @@
     "Palier": "ING2",
     "Spécialité": "INFO",
     "Section": "A",
-    "Matricule": 212231549206,
+    "matricule": 212231549206,
     "Nom": "HERICHE",
     "Prénom": "OMAR",
     "Etat": "ADM",
-    "Groupe TD": 2,
+    "Groupe": 2,
     "Groupe TP": 2
   },
   {
@@ -796,11 +796,11 @@
     "Palier": "ING2",
     "Spécialité": "INFO",
     "Section": "A",
-    "Matricule": 222231497808,
+    "matricule": 222231497808,
     "Nom": "HIMRANE",
     "Prénom": "SID AHMED",
     "Etat": "ADM",
-    "Groupe TD": 2,
+    "Groupe": 2,
     "Groupe TP": 2
   },
   {
@@ -808,11 +808,11 @@
     "Palier": "ING2",
     "Spécialité": "INFO",
     "Section": "A",
-    "Matricule": 222231395419,
+    "matricule": 222231395419,
     "Nom": "HIRECHE",
     "Prénom": "HICHEM",
     "Etat": "ADM",
-    "Groupe TD": 4,
+    "Groupe": 4,
     "Groupe TP": 4
   },
   {
@@ -820,11 +820,11 @@
     "Palier": "ING2",
     "Spécialité": "INFO",
     "Section": "A",
-    "Matricule": 222231521009,
+    "matricule": 222231521009,
     "Nom": "HOCINI",
     "Prénom": "MERIEM",
     "Etat": "ADM",
-    "Groupe TD": 4,
+    "Groupe": 4,
     "Groupe TP": 4
   },
   {
@@ -832,11 +832,11 @@
     "Palier": "ING2",
     "Spécialité": "INFO",
     "Section": "A",
-    "Matricule": 222231485305,
+    "matricule": 222231485305,
     "Nom": "IOUALALEN",
     "Prénom": "MOHAMED SAID",
     "Etat": "ADM",
-    "Groupe TD": 2,
+    "Groupe": 2,
     "Groupe TP": 2
   },
   {
@@ -844,11 +844,11 @@
     "Palier": "ING2",
     "Spécialité": "INFO",
     "Section": "A",
-    "Matricule": 222231600216,
+    "matricule": 222231600216,
     "Nom": "ISSAAD",
     "Prénom": "IBTISSEM",
     "Etat": "ADM",
-    "Groupe TD": 3,
+    "Groupe": 3,
     "Groupe TP": 3
   },
   {
@@ -856,11 +856,11 @@
     "Palier": "ING2",
     "Spécialité": "INFO",
     "Section": "A",
-    "Matricule": 222231500518,
+    "matricule": 222231500518,
     "Nom": "KADDACHE",
     "Prénom": "MEY QUATRE ELNADA",
     "Etat": "ADM",
-    "Groupe TD": 3,
+    "Groupe": 3,
     "Groupe TP": 3
   },
   {
@@ -868,11 +868,11 @@
     "Palier": "ING2",
     "Spécialité": "INFO",
     "Section": "A",
-    "Matricule": 222231383817,
+    "matricule": 222231383817,
     "Nom": "KAMIRI",
     "Prénom": "WASSIM",
     "Etat": "ADM",
-    "Groupe TD": 3,
+    "Groupe": 3,
     "Groupe TP": 3
   },
   {
@@ -880,11 +880,11 @@
     "Palier": "ING2",
     "Spécialité": "INFO",
     "Section": "A",
-    "Matricule": 222231660014,
+    "matricule": 222231660014,
     "Nom": "KARA",
     "Prénom": "NABIL",
     "Etat": "ADM",
-    "Groupe TD": 1,
+    "Groupe": 1,
     "Groupe TP": 1
   },
   {
@@ -892,11 +892,11 @@
     "Palier": "ING2",
     "Spécialité": "INFO",
     "Section": "A",
-    "Matricule": 222231589409,
+    "matricule": 222231589409,
     "Nom": "KECIRA",
     "Prénom": "ABDERRAOUF",
     "Etat": "ADM",
-    "Groupe TD": 2,
+    "Groupe": 2,
     "Groupe TP": 2
   },
   {
@@ -904,11 +904,11 @@
     "Palier": "ING2",
     "Spécialité": "INFO",
     "Section": "A",
-    "Matricule": 212231707907,
+    "matricule": 212231707907,
     "Nom": "KERROUCHI",
     "Prénom": "MAROUA",
     "Etat": "ADM",
-    "Groupe TD": 4,
+    "Groupe": 4,
     "Groupe TP": 4
   },
   {
@@ -916,11 +916,11 @@
     "Palier": "ING2",
     "Spécialité": "INFO",
     "Section": "A",
-    "Matricule": 222231647712,
+    "matricule": 222231647712,
     "Nom": "KHELIFI",
     "Prénom": "SOUHIL IDRIS",
     "Etat": "ADM",
-    "Groupe TD": 1,
+    "Groupe": 1,
     "Groupe TP": 1
   },
   {
@@ -928,11 +928,11 @@
     "Palier": "ING2",
     "Spécialité": "INFO",
     "Section": "A",
-    "Matricule": 222231637604,
+    "matricule": 222231637604,
     "Nom": "KHIMECHE",
     "Prénom": "AYA",
     "Etat": "ADM",
-    "Groupe TD": 1,
+    "Groupe": 1,
     "Groupe TP": 1
   },
   {
@@ -940,11 +940,11 @@
     "Palier": "ING2",
     "Spécialité": "INFO",
     "Section": "A",
-    "Matricule": 222231520107,
+    "matricule": 222231520107,
     "Nom": "KHOUAS",
     "Prénom": "IHSENE NOOR",
     "Etat": "ADM",
-    "Groupe TD": 4,
+    "Groupe": 4,
     "Groupe TP": 4
   },
   {
@@ -952,11 +952,11 @@
     "Palier": "ING2",
     "Spécialité": "INFO",
     "Section": "A",
-    "Matricule": 212231443414,
+    "matricule": 212231443414,
     "Nom": "KICHOU",
     "Prénom": "RANIA",
     "Etat": "ADM",
-    "Groupe TD": 2,
+    "Groupe": 2,
     "Groupe TP": 2
   },
   {
@@ -964,11 +964,11 @@
     "Palier": "ING2",
     "Spécialité": "INFO",
     "Section": "A",
-    "Matricule": 222231628403,
+    "matricule": 222231628403,
     "Nom": "KIHELI",
     "Prénom": "AHLEM",
     "Etat": "ADM",
-    "Groupe TD": 2,
+    "Groupe": 2,
     "Groupe TP": 2
   },
   {
@@ -976,11 +976,11 @@
     "Palier": "ING2",
     "Spécialité": "INFO",
     "Section": "A",
-    "Matricule": 222231588507,
+    "matricule": 222231588507,
     "Nom": "LAIDLI",
     "Prénom": "BESMALA MERIEM",
     "Etat": "ADM",
-    "Groupe TD": 2,
+    "Groupe": 2,
     "Groupe TP": 2
   },
   {
@@ -988,11 +988,11 @@
     "Palier": "ING2",
     "Spécialité": "INFO",
     "Section": "A",
-    "Matricule": 222231327013,
+    "matricule": 222231327013,
     "Nom": "LAOUDI",
     "Prénom": "FARID",
     "Etat": "ADM",
-    "Groupe TD": 3,
+    "Groupe": 3,
     "Groupe TP": 3
   },
   {
@@ -1000,11 +1000,11 @@
     "Palier": "ING2",
     "Spécialité": "INFO",
     "Section": "A",
-    "Matricule": 222231377808,
+    "matricule": 222231377808,
     "Nom": "LEBGAA",
     "Prénom": "ABDERRAHMANE",
     "Etat": "ADM",
-    "Groupe TD": 3,
+    "Groupe": 3,
     "Groupe TP": 3
   },
   {
@@ -1012,11 +1012,11 @@
     "Palier": "ING2",
     "Spécialité": "INFO",
     "Section": "A",
-    "Matricule": 212231706913,
+    "matricule": 212231706913,
     "Nom": "LOUALI",
     "Prénom": "DJIHANE",
     "Etat": "ADM",
-    "Groupe TD": 4,
+    "Groupe": 4,
     "Groupe TP": 4
   },
   {
@@ -1024,11 +1024,11 @@
     "Palier": "ING2",
     "Spécialité": "INFO",
     "Section": "A",
-    "Matricule": 222231518514,
+    "matricule": 222231518514,
     "Nom": "LOUTANI",
     "Prénom": "MERIEM",
     "Etat": "ADM",
-    "Groupe TD": 2,
+    "Groupe": 2,
     "Groupe TP": 2
   },
   {
@@ -1036,11 +1036,11 @@
     "Palier": "ING2",
     "Spécialité": "INFO",
     "Section": "A",
-    "Matricule": 222231395305,
+    "matricule": 222231395305,
     "Nom": "MAHMOUD",
     "Prénom": "RAYAN",
     "Etat": "ADM",
-    "Groupe TD": 1,
+    "Groupe": 1,
     "Groupe TP": 1
   },
   {
@@ -1048,11 +1048,11 @@
     "Palier": "ING2",
     "Spécialité": "INFO",
     "Section": "A",
-    "Matricule": 222231496019,
+    "matricule": 222231496019,
     "Nom": "MANSOUR",
     "Prénom": "IMENE",
     "Etat": "ADM",
-    "Groupe TD": 3,
+    "Groupe": 3,
     "Groupe TP": 3
   },
   {
@@ -1060,11 +1060,11 @@
     "Palier": "ING2",
     "Spécialité": "INFO",
     "Section": "A",
-    "Matricule": 222231355614,
+    "matricule": 222231355614,
     "Nom": "MEDJBER",
     "Prénom": "ABDERRAHIM",
     "Etat": "ADM",
-    "Groupe TD": 2,
+    "Groupe": 2,
     "Groupe TP": 2
   },
   {
@@ -1072,11 +1072,11 @@
     "Palier": "ING2",
     "Spécialité": "INFO",
     "Section": "A",
-    "Matricule": 222231411405,
+    "matricule": 222231411405,
     "Nom": "MEHENNI",
     "Prénom": "FATMA ZOHRA MAY",
     "Etat": "ADM",
-    "Groupe TD": 2,
+    "Groupe": 2,
     "Groupe TP": 2
   },
   {
@@ -1084,11 +1084,11 @@
     "Palier": "ING2",
     "Spécialité": "INFO",
     "Section": "A",
-    "Matricule": 222233255610,
+    "matricule": 222233255610,
     "Nom": "MERIGHED",
     "Prénom": "Issam eddin",
     "Etat": "ADM",
-    "Groupe TD": 3,
+    "Groupe": 3,
     "Groupe TP": 3
   },
   {
@@ -1096,11 +1096,11 @@
     "Palier": "ING2",
     "Spécialité": "INFO",
     "Section": "A",
-    "Matricule": 222231472403,
+    "matricule": 222231472403,
     "Nom": "MEZGHENNA",
     "Prénom": "MOHANNED",
     "Etat": "ADM",
-    "Groupe TD": 4,
+    "Groupe": 4,
     "Groupe TP": 4
   },
   {
@@ -1108,11 +1108,11 @@
     "Palier": "ING2",
     "Spécialité": "INFO",
     "Section": "A",
-    "Matricule": 212231459415,
+    "matricule": 212231459415,
     "Nom": "MOUACI",
     "Prénom": "RABIE",
     "Etat": "ADM",
-    "Groupe TD": 1,
+    "Groupe": 1,
     "Groupe TP": 1
   },
   {
@@ -1120,11 +1120,11 @@
     "Palier": "ING2",
     "Spécialité": "INFO",
     "Section": "A",
-    "Matricule": 222231412409,
+    "matricule": 222231412409,
     "Nom": "NAILI",
     "Prénom": "WALID",
     "Etat": "ADM",
-    "Groupe TD": 1,
+    "Groupe": 1,
     "Groupe TP": 1
   },
   {
@@ -1132,11 +1132,11 @@
     "Palier": "ING2",
     "Spécialité": "INFO",
     "Section": "A",
-    "Matricule": 222231412820,
+    "matricule": 222231412820,
     "Nom": "NEDJAR",
     "Prénom": "ABDELMOUMEN",
     "Etat": "ADM",
-    "Groupe TD": 1,
+    "Groupe": 1,
     "Groupe TP": 1
   },
   {
@@ -1144,11 +1144,11 @@
     "Palier": "ING2",
     "Spécialité": "INFO",
     "Section": "A",
-    "Matricule": 222231485120,
+    "matricule": 222231485120,
     "Nom": "RACHEDI",
     "Prénom": "ABDERRAHMANE",
     "Etat": "ADM",
-    "Groupe TD": 2,
+    "Groupe": 2,
     "Groupe TP": 2
   },
   {
@@ -1156,11 +1156,11 @@
     "Palier": "ING2",
     "Spécialité": "INFO",
     "Section": "A",
-    "Matricule": 222231360816,
+    "matricule": 222231360816,
     "Nom": "RAHMANI",
     "Prénom": "AMANI",
     "Etat": "ADM",
-    "Groupe TD": 3,
+    "Groupe": 3,
     "Groupe TP": 3
   },
   {
@@ -1168,11 +1168,11 @@
     "Palier": "ING2",
     "Spécialité": "INFO",
     "Section": "A",
-    "Matricule": 222232130310,
+    "matricule": 222232130310,
     "Nom": "ROUCHAI",
     "Prénom": "MOHAMED WAFI ABDESSALEM",
     "Etat": "ADM",
-    "Groupe TD": 4,
+    "Groupe": 4,
     "Groupe TP": 4
   },
   {
@@ -1180,11 +1180,11 @@
     "Palier": "ING2",
     "Spécialité": "INFO",
     "Section": "A",
-    "Matricule": 212231456105,
+    "matricule": 212231456105,
     "Nom": "SADAOUI",
     "Prénom": "SARA RAHMA",
     "Etat": "ADM",
-    "Groupe TD": 4,
+    "Groupe": 4,
     "Groupe TP": 4
   },
   {
@@ -1192,11 +1192,11 @@
     "Palier": "ING2",
     "Spécialité": "INFO",
     "Section": "A",
-    "Matricule": 222231640613,
+    "matricule": 222231640613,
     "Nom": "SAHRAOUI",
     "Prénom": "LINA AMIRA",
     "Etat": "ADM",
-    "Groupe TD": 1,
+    "Groupe": 1,
     "Groupe TP": 1
   },
   {
@@ -1204,11 +1204,11 @@
     "Palier": "ING2",
     "Spécialité": "INFO",
     "Section": "A",
-    "Matricule": 222231484309,
+    "matricule": 222231484309,
     "Nom": "SAIDJ",
     "Prénom": "YASMINE",
     "Etat": "ADM",
-    "Groupe TD": 2,
+    "Groupe": 2,
     "Groupe TP": 2
   },
   {
@@ -1216,11 +1216,11 @@
     "Palier": "ING2",
     "Spécialité": "INFO",
     "Section": "A",
-    "Matricule": 222231607318,
+    "matricule": 222231607318,
     "Nom": "SAYAH",
     "Prénom": "BADR EDDINE",
     "Etat": "ADM",
-    "Groupe TD": 3,
+    "Groupe": 3,
     "Groupe TP": 3
   },
   {
@@ -1228,11 +1228,11 @@
     "Palier": "ING2",
     "Spécialité": "INFO",
     "Section": "A",
-    "Matricule": 222231573611,
+    "matricule": 222231573611,
     "Nom": "SEDDIK",
     "Prénom": "SABRINE",
     "Etat": "ADM",
-    "Groupe TD": 2,
+    "Groupe": 2,
     "Groupe TP": 2
   },
   {
@@ -1240,11 +1240,11 @@
     "Palier": "ING2",
     "Spécialité": "INFO",
     "Section": "A",
-    "Matricule": 222231472211,
+    "matricule": 222231472211,
     "Nom": "SEKHRI",
     "Prénom": "SOUMIA",
     "Etat": "ADM",
-    "Groupe TD": 2,
+    "Groupe": 2,
     "Groupe TP": 2
   },
   {
@@ -1252,11 +1252,11 @@
     "Palier": "ING2",
     "Spécialité": "INFO",
     "Section": "A",
-    "Matricule": 222231602712,
+    "matricule": 222231602712,
     "Nom": "SENOUCI",
     "Prénom": "OUISSAL",
     "Etat": "ADM",
-    "Groupe TD": 4,
+    "Groupe": 4,
     "Groupe TP": 4
   },
   {
@@ -1264,11 +1264,11 @@
     "Palier": "ING2",
     "Spécialité": "INFO",
     "Section": "A",
-    "Matricule": 222231501108,
+    "matricule": 222231501108,
     "Nom": "SI TAYEB",
     "Prénom": "WISSEM",
     "Etat": "ADM",
-    "Groupe TD": 1,
+    "Groupe": 1,
     "Groupe TP": 1
   },
   {
@@ -1276,11 +1276,11 @@
     "Palier": "ING2",
     "Spécialité": "INFO",
     "Section": "A",
-    "Matricule": 222232187016,
+    "matricule": 222232187016,
     "Nom": "SIFI",
     "Prénom": "TAREK MAZIGH",
     "Etat": "ADM",
-    "Groupe TD": 1,
+    "Groupe": 1,
     "Groupe TP": 1
   },
   {
@@ -1288,11 +1288,11 @@
     "Palier": "ING2",
     "Spécialité": "INFO",
     "Section": "A",
-    "Matricule": 212231703413,
+    "matricule": 212231703413,
     "Nom": "SOUDANI",
     "Prénom": "MELYNA FERIEL",
     "Etat": "ADM",
-    "Groupe TD": 2,
+    "Groupe": 2,
     "Groupe TP": 2
   },
   {
@@ -1300,11 +1300,11 @@
     "Palier": "ING2",
     "Spécialité": "INFO",
     "Section": "A",
-    "Matricule": 222231520103,
+    "matricule": 222231520103,
     "Nom": "TOUATI",
     "Prénom": "INAS",
     "Etat": "ADM",
-    "Groupe TD": 2,
+    "Groupe": 2,
     "Groupe TP": 2
   },
   {
@@ -1312,11 +1312,11 @@
     "Palier": "ING2",
     "Spécialité": "INFO",
     "Section": "A",
-    "Matricule": 222231620601,
+    "matricule": 222231620601,
     "Nom": "ZEMMACHE",
     "Prénom": "NAILA",
     "Etat": "ADM",
-    "Groupe TD": 1,
+    "Groupe": 1,
     "Groupe TP": 1
   },
   {
@@ -1324,11 +1324,11 @@
     "Palier": "ING2",
     "Spécialité": "INFO",
     "Section": "A",
-    "Matricule": 222231319412,
+    "matricule": 222231319412,
     "Nom": "ZIOUCHE",
     "Prénom": "MAROUA",
     "Etat": "ADM",
-    "Groupe TD": 3,
+    "Groupe": 3,
     "Groupe TP": 3
   }
 ]
