@@ -9,7 +9,7 @@ module.exports = {
                 .setDescription('The name to get an cringe score for')
                 .setRequired(false);
         }),
-    async execute(interaction) {
+    async execute(interaction, client) {
         // Generate a random IQ score between 50 and 180 for variety
         const cringeF = Math.floor(Math.random() * (101));
 
@@ -20,5 +20,6 @@ module.exports = {
         const displayName = name || interaction.user.username;
         
         await interaction.reply(`Cringe Of **${displayName}** is **${cringeF}%** today.`);
+
     },
 };
